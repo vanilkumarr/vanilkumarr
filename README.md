@@ -14,19 +14,14 @@
     alt="readme animation"
   />
 </div>
+<h6 align="center">Hi, I'm Anil</h6>
 
-<!-- About Me + Image (no table, no border) -->
-<div align="left">
+<h6> About Me</h6>
+  <h6>🎓 Computer Science and Engineering graduate</h6>
+  <h6>💼 DevOps Engineer at <b>Infosys</b></h6>
+  <h6>🚀 Enjoy learning and working with new technologies</h6>
 
-<h3> About Me</h3>
 
-<ul>
-  <li>🎓 Computer Science and Engineering graduate</li>
-  <li>💼 DevOps Engineer at <b>Infosys</b></li>
-  <li>🚀 Enjoy learning and working with new technologies</li>
-</ul>
-
-</div>
 
 <div align="center">
   <img
