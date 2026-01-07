@@ -9,7 +9,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <!-- LEFT: About Me -->
-    <td width="55%" valign="top" align="left">
+    <td width="65%" valign="top" align="left">
 
 ### 👋 About Me
 
@@ -20,7 +20,7 @@
     </td>
 
     <!-- RIGHT: GIF -->
-    <td width="45%" valign="middle" align="right">
+    <td width="55%" valign="middle" align="right">
       <img 
         src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif"
         width="380"
