@@ -6,29 +6,36 @@
     alt="section separator"
   />
 </div>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- LEFT: About Me -->
-    <td width="65%" valign="top" align="left">
 
-### 👋 About Me
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    width="1000"
+    alt="readme animation"
+  />
+</div>
 
-- 🎓 Computer Science and Engineering graduate  
-- 💼 DevOps Engineer at **Infosys**  
-- 🚀 Enjoy learning and working with new technologies  
+<!-- About Me + Image (no table, no border) -->
+<div align="left">
 
-    </td>
+<h3> About Me</h3>
 
-    <!-- RIGHT: GIF -->
-    <td width="55%" valign="middle" align="right">
-      <img 
-        src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif"
-        width="380"
-        alt="readme animation"
-      />
-    </td>
-  </tr>
-</table>
+<ul>
+  <li>🎓 Computer Science and Engineering graduate</li>
+  <li>💼 DevOps Engineer at <b>Infosys</b></li>
+  <li>🚀 Enjoy learning and working with new technologies</li>
+</ul>
+
+</div>
+
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"
+    width="1000"
+    alt="readme animation"
+  />
+</div>
+
 
 
 <!-- Tech Stack -->
@@ -105,13 +112,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" height="45"/>
   </a>
 </div>
+<div>
 
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    width="1000"
+    alt="readme animation"
+  />
+</div>
 
-
-
-<!-- Pacman Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanilkumarr/vanilkumarr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanilkumarr/vanilkumarr/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/vanilkumarr/vanilkumarr/output/pacman-contribution-graph.svg">
 </picture>
+</div>
