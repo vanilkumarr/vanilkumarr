@@ -2,13 +2,37 @@
 <div align="center">
   <img
     src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
-    width="900"
+    width="1000"
     alt="section separator"
   />
 </div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- LEFT: About Me -->
+    <td width="55%" valign="top" align="left">
+
+### 👋 About Me
+
+- 🎓 Computer Science and Engineering graduate  
+- 💼 DevOps Engineer at **Infosys**  
+- 🚀 Enjoy learning and working with new technologies  
+
+    </td>
+
+    <!-- RIGHT: GIF -->
+    <td width="45%" valign="middle" align="right">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif"
+        width="380"
+        alt="readme animation"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <!-- Tech Stack -->
-<h3 align="center">🛠️ Skills & Tools</h3>
+<h3 align="left">🛠️ Skills & Tools</h3>
 
 <div align="center">
   <a href="https://aws.amazon.com" target="_blank">
@@ -81,6 +105,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" height="45"/>
   </a>
 </div>
+
+
+
 
 <!-- Pacman Contribution Graph -->
 <picture>
