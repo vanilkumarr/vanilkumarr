@@ -17,7 +17,7 @@
 <h6 align="center">Hi, I'm Anil</h6>
 
 <h6> About Me</h6>
-  <h6>🎓 Computer Science and Engineering graduate</h6>
+  <h6>🎓 Computer Science and Engineering </h6>
   <h6>💼 DevOps Engineer at <b>Infosys</b></h6>
   <h6>🚀 Enjoy learning and working with new technologies</h6>
 
